@@ -1,0 +1,55 @@
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 23px;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+#FROZEN_SONG {
+    margin: 15px;
+    font-size: 23px;
+}
+
+#PRESTON_PABLO_SONG{
+    margin:  15px;
+    font-size: 23px; 
+}
+
+.div_PRESTON_PABLO_img{
+    width: 200px;
+    border-radius: 100px;
+    
+}
+
+.div_FROZEN_img{
+    width: 200px;
+    border-radius: 100px;
+    }
+
+.LET_IT_GO{
+    float:right;
+    border-radius: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    border: 3px solid white;
+}
+
+.I_NEED_YOU_LIKE_THE_FLOWERS_NEED_THE_RAIN{
+float: left;
+border-radius: 25px;
+padding-top: 20px;
+border: 3px solid white;
+}
+
+canvas{
+    border: 3px solid white;
+}
